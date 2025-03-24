@@ -299,8 +299,8 @@ def main():
     print("------------------------------------------------------")
     
     # Utiliser des backslashes \ pour les chemin sous Windows
-    server_file = r"C:\Users\mizer\Desktop\test\server_config.cfg"
-    password_file = r"C:\Users\mizer\Desktop\test\config.json"
+    server_file = r"C:\Desktop\test\server_config.cfg"
+    password_file = r"C:\Desktop\test\config.json"
     
     # Configuration pour server_password launcher spécifier ligne si nécessaire
     server_line = None  # Aucune ligne spécifique
